@@ -1,0 +1,19 @@
+[
+   {
+      "label": "Select a Project...",
+      "value": "",
+      "default": true
+   },
+   {
+      "label": "AISAP",
+      "value": "aisap"
+   },
+   {
+      "label": "Huhtamaki",
+      "value": "huhtamaki"
+   },
+   {
+      "label": "Polynt USA",
+      "value": "polynt"
+   }
+]

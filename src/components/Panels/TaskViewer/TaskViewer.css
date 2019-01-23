@@ -1,0 +1,22 @@
+.TaskViewer {
+   position: relative;
+   box-sizing: border-box;
+   padding: 0.5em;
+   border: 1px solid black;
+   border-radius: 0.5em;
+   background-color: rgb(32, 31, 31);
+   color: rgb(153, 153, 153);
+   text-align: left;
+   white-space: pre-wrap; /* css-3 */
+   white-space: -moz-pre-wrap; /* Mozilla, since 1999 */
+   white-space: -pre-wrap; /* Opera 4-6 */
+   white-space: -o-pre-wrap; /* Opera 7 */
+   word-wrap: break-word; /* Internet Explorer 5.5+ */
+   box-shadow: 0 2px 4px rgb(0, 0, 0);
+   z-index: 10;
+   cursor: pointer;
+}
+.TaskViewer .header {
+   margin-bottom: 0.5em;
+   font-weight: bold;
+}

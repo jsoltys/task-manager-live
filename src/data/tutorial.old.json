@@ -1,0 +1,62 @@
+[
+   {
+      "billable": 0,
+      "inDate": "",
+      "isFinished": false,
+      "curMinutes": 0,
+      "maxMinutes": 15,
+      "minMinutes": 5,
+      "name": "Start and Stop a Task",
+      "nonBillable": 0,
+      "outDate": null,
+      "project": "tutorial",
+      "summary": "Press the start (triangle icon) button on the right.\nThis will start tracking the time used to perform this task.\nAfter a while, press the stop (square) icon to stop the task",
+      "timestamp": [],
+      "userValue": 3
+   },
+   {
+      "billable": 0,
+      "inDate": "",
+      "isFinished": false,
+      "curMinutes": 0,
+      "maxMinutes": 5,
+      "minMinutes": 1,
+      "name": "Delete a task",
+      "nonBillable": 0,
+      "outDate": null,
+      "project": "tutorial",
+      "summary": "To remove this task press the delete (trash icon) on the right.",
+      "timestamp": [],
+      "userValue": 8
+   },
+   {
+      "billable": 0,
+      "inDate": "",
+      "isFinished": false,
+      "curMinutes": 0,
+      "maxMinutes": 5,
+      "minMinutes": 1,
+      "name": "Warn Test 0",
+      "nonBillable": 0,
+      "outDate": null,
+      "project": "tutorial",
+      "summary": "userValue 0",
+      "timestamp": [],
+      "userValue": 0
+   },
+   {
+      "billable": 0,
+      "inDate": "",
+      "isFinished": false,
+      "curMinutes": 0,
+      "maxMinutes": 5,
+      "minMinutes": 1,
+      "name": "Warn Test 100",
+      "nonBillable": 0,
+      "outDate": null,
+      "project": "tutorial",
+      "summary": "TuserValue 100",
+      "timestamp": [],
+      "userValue": 100
+   }
+]

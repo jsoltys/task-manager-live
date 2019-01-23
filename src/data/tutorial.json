@@ -1,0 +1,17 @@
+[
+   {
+      "billable": 0,
+      "inDate": "",
+      "isFinished": false,
+      "curMinutes": 0,
+      "maxMinutes": 5,
+      "minMinutes": 1,
+      "name": "Loading your tasks",
+      "nonBillable": 0,
+      "outDate": null,
+      "project": "tutorial",
+      "summary": "Click the option button below and then either the \"Load Tutorial Tasks\" or \"Load Daily Tasks\"",
+      "timestamp": [],
+      "userValue": 25
+   }
+]

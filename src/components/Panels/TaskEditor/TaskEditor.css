@@ -1,0 +1,27 @@
+.TaskEditor {
+   box-sizing: border-box;
+   padding: 0.5em;
+   padding-bottom: 0;
+   margin-bottom: 1em;
+   border: 1px solid black;
+   border-radius: 0.5em;
+   background-color: rgb(82, 123, 200);
+}
+.TaskEditor:last-child {
+   margin-bottom: 0 !important;
+}
+.TaskEditor select,
+.TaskEditor input,
+.TaskEditor textarea {
+   margin-bottom: 0.5em;
+   padding: 0.25em 0.5em;
+   border: 1px solid rgb(0, 0, 0);
+   border-radius: 0.5em;
+   width: 100%;
+   box-sizing: border-box;
+   font-size: 1em;
+}
+
+.TaskEditor .controls {
+   padding: 0 !important;
+}

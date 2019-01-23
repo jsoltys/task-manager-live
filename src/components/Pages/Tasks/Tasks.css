@@ -1,0 +1,19 @@
+.Tasks {
+   padding: 0;
+}
+.Tasks .controls {
+   margin: 1em;
+}
+
+.Tasks .controls .Button {
+   margin-bottom: 1em;
+   width: 100%;
+}
+
+.Tasks .controls .Button:last-child {
+   margin-bottom: 0;
+}
+
+.Tasks .task-group {
+   margin: 1em;
+}

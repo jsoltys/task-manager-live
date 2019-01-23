@@ -1,0 +1,34 @@
+body,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p {
+   margin: 0;
+   padding: 0;
+   box-sizing: border-box;
+}
+
+.App {
+   font-family: sans-serif;
+   text-align: center;
+}
+
+body {
+   background-color: rgb(72, 73, 74);
+}
+
+.Button.themeGray {
+   background-color: rgb(82, 123, 200);
+}
+.Button.themeGray:hover {
+   background-color: rgb(52, 93, 170);
+}
+.shadow {
+   box-shadow: 0 2px 4px rgb(0, 0, 0);
+}
+.Button.shadow:hover {
+   box-shadow: 0 1px 2px rgb(0, 0, 0);
+}
